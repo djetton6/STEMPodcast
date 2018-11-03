@@ -1,6 +1,6 @@
 package com.example.android.stempodcast;
 
-public class stemModel {
+public class song {
 
     private final String modelName;
     private final String modelOccupation;
